@@ -1,1 +1,1 @@
-# revue-signup
+Revue signup form. Super simple to create and deply to vercel
