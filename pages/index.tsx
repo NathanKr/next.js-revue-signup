@@ -55,11 +55,11 @@ const Home: NextPage = () => {
               </Button>
               <div className="revue-form-footer">
                 By subscribing, you agree with Revue’s{" "}
-                <a target="_blank" href="https://www.getrevue.co/terms">
+                <a target="_blank" rel="noreferrer" href="https://www.getrevue.co/terms">
                   Terms of Service
                 </a>{" "}
                 and{" "}
-                <a target="_blank" href="https://www.getrevue.co/privacy">
+                <a target="_blank" rel="noreferrer" href="https://www.getrevue.co/privacy">
                   Privacy Policy
                 </a>
                 .
