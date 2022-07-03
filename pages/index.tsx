@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <div>
           <h3>רישום לרשימת התפוצה שלי יאפשר לי לשלוח לכם פוסטים , מאמרים וסרטונים בנושאים הבאים</h3>
           <ul>
-            <p>React : state management , mui 5, ...</p>
+            <p>React : state management , debugging, mui 5, ...</p>
             <p>Typescript</p>
             <p>Next.js</p>
             <p>Jest</p>
