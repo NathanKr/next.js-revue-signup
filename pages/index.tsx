@@ -53,7 +53,7 @@ const Home: NextPage = () => {
               <Button type="submit" variant="contained" size="large">
                 Subscribe
               </Button>
-              <div className="revue-form-footer">
+              <div >
                 By subscribing, you agree with Revue’s{" "}
                 <a target="_blank" rel="noreferrer" href="https://www.getrevue.co/terms">
                   Terms of Service
