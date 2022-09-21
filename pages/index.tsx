@@ -14,9 +14,9 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
 
-      <h1>Subscribe to Nathan Krasney's email list</h1>
+      <h1>Subscribe to the email list of Nathan Krasney </h1>
         <div>
-          <h3>Subscribing will enable me to sent you posts, articles and videos on the following subjects</h3>
+          <h3>Subscribe will enable me to sent you posts, articles and videos on the following subjects</h3>
           <ul>
             <p>React : state management , debugging, mui 5, ...</p>
             <p>Typescript</p>
